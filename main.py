@@ -2,3 +2,5 @@
 
 #Maryam Sameen
 #22-NTU-CS-1354
+
+#sensor reading done
